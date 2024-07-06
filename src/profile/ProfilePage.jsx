@@ -208,7 +208,7 @@ class ProfilePage extends React.Component {
     const isLocationBlockVisible = isBlockVisible(country);
 
     return (
-      <div className="container-fluid">
+      <div className="container-fluid my-test-class">
         <div className="row align-items-center pt-4 mb-4 pt-md-0 mb-md-0">
           <div className="col-auto col-md-4 col-lg-3">
             <div className="d-flex align-items-center d-md-block">
